@@ -41,6 +41,6 @@ namespace AirplanePlanner.Models
     }
     public static class DBConfiguration
     {
-      public static string ConnectionString = "server=localhost;user id=root;password=root;port=8889;database=todo;";
+      public static string ConnectionString = "server=localhost;user id=root;password=root;port=8889;database=airplane_planner;";
     }
 }
